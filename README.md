@@ -6,10 +6,10 @@ A Barbearia Alura é um Site de Barbaria completamente estilizado e responsivo u
 
 ## ✔️ Técnicas e tecnologias desenvolvidas no projeto
 
-- `HTML`: `!Doctype`; `html`; `head`; `header`; `body`; `footer`; etc.
+- `HTML`: `!Doctype`; `html`; `head`; `header`; `body`; `form`; `label e input`; `placeholder`; `footer`; etc.
 
-- `CSS` : `houver`; `inline`; `block`; `pseudo-classes`;`form`;`label e input`; `placeholder`;`pseudo-elementos`;
-`seletores avançados`;`Opacidade`;`Viewport`; etc.
+- `CSS` : `houver`; `inline`; `block`; `pseudo-classes`;`pseudo-elementos`;`seletores avançados`;
+`Opacidade`;`Viewport`; etc.
 
 ## 🛠️ Abrir e rodar o projeto
 
